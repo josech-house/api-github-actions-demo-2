@@ -4,6 +4,7 @@ from apiflaskdemo.project.blueprints import abc_alumnos
 from apiflaskdemo.project.auth.blueprints import auth_bp
 from sqlalchemy import inspect
 
+wakawaka
 def create_app():
     '''Función principal de la aplicación'''
     # Crear el objeto app
